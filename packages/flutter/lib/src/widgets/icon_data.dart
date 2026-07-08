@@ -20,7 +20,7 @@ import 'package:flutter/foundation.dart';
 /// the code points (or instances of [IconData]) which are not referenced from
 /// Dart app code. See the [staticIconProvider] annotation for more details.
 @immutable
-final class IconData {
+class IconData {
   /// Creates icon data.
   ///
   /// Rarely used directly. Instead, consider using one of the predefined icons
